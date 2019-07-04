@@ -64,6 +64,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/operation_add_btn"
+            android:background="@android:color/holo_blue_bright"
             android:onClick="onDiv"
             android:text="@string/div_operation_text"/>
 
@@ -74,6 +75,7 @@
             android:layout_below="@id/operation_add_btn"
             android:layout_toEndOf="@id/operation_add_btn"
             android:layout_toRightOf="@id/operation_add_btn"
+            android:background="@android:color/holo_green_light"
             android:onClick="onMul"
             android:text="@string/mul_operation_text"/>
 
