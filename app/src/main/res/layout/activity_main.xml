@@ -29,7 +29,7 @@
         android:id="@+id/operand_one_edit_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/type_operand_one_hint"
+        android:hint="@string/type_first_num_hint"
         android:inputType="numberDecimal"/>
 
     <EditText
